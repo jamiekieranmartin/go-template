@@ -1,2 +1,3 @@
 # go-template
- template for go libraries
+
+template for go libraries
